@@ -1,0 +1,159 @@
+# Blender MTL File: 'HOUSE.blend'
+# Material Count: 16
+
+newmtl Door
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.350124 0.194613 0.088948
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Glass
+Ns 194.117647
+Ka 0.000000 0.000000 0.000000
+Kd 0.685968 0.665517 0.674572
+Ks 0.650943 0.650943 0.650943
+Ni 1.000000
+d 0.135395
+illum 2
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl Outside
+Ns 749.999996
+Ka 0.000000 0.000000 0.000000
+Kd 0.950000 0.950000 0.950000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl bamboo_floor
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.300599 0.157602 0.013251
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\^natural bamboo.jpg
+
+newmtl bathrm_floor
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\black tile bump.png
+map_Kd C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\black tile bump.png
+
+newmtl black
+Ns 198.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.006830 0.006454 0.006542
+Ks 0.583333 0.583333 0.583333
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl black_tiles
+Ns 550.980392
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.675926 0.675926 0.675926
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\drios\AppData\Local\Temp\7zO2E6A.tmp\black tile.png
+map_Bump C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\black tile bump.png
+
+newmtl brown
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.307501 0.220612 0.136062
+Ks 0.367925 0.367925 0.367925
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl chrome
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl grass
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.153356 0.412498 0.097652
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\lawn.jpg
+map_Kd C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\lawn.jpg
+
+newmtl pantry_tiles
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\black tile bump.png
+map_Kd C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\black tile.png
+
+newmtl roof
+Ns 88.235294
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.127360 0.151817
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\roof_tiles_DISP.jpg
+map_Kd C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\roof_tiles_DIFFUSE.jpg
+
+newmtl roof_2
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.400000 0.400000 0.400000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\roof_tiles_DISP rot.jpg
+map_Kd C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\roof_tiles_DIFFUSE rot.jpg
+
+newmtl white
+Ns 664.705882
+Ka 0.000000 0.000000 0.000000
+Kd 0.719994 0.719994 0.719994
+Ks 0.074074 0.074074 0.074074
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl white_tiles
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\drios\\AppData\\Local\\Temp\\7zO2E6A.tmp\\black tile bump.png
