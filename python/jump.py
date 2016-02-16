@@ -126,7 +126,7 @@ for i in range(0,len(data)):
             #print data[i][j]
             data[i][j] = 0.0
                      
-wf = open('positions.txt','w')
+wf = open('jump.txt','w')
 writePls(wf, data)
 wf.close()
 
